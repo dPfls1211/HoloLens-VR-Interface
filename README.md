@@ -4,7 +4,7 @@
 가상환경에서 무게감을 효율적으로 사용자에게 전달하는 도르래방식의 VR 인터페이스를 제안
 
 <br>진행기간 2021/12/20 - 2022/12/28
-<br><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
+<br><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 
 <br>
